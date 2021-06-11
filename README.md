@@ -1,7 +1,9 @@
 <img align="center" src="https://i.imgur.com/zvygV2A.jpeg" alt="nils-kt" />
 <div>
   <a href="#0">
-    <img valign="top" src="https://github-readme-stats.vercel.app/api?username=nils-kt&show_icons=true&theme=dracula&title_color=ffffff&bg_color=0e111a&border_color=0e111a" />
-    <img valign="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nils-kt&theme=dracula&layout=compact&title_color=ffffff&bg_color=0e111a&border_color=0e111a" />
+    
+![Metrics](https://metrics.lecoq.io/nils-kt?template=classic&introduction=1&languages=1&lines=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Europe%2FBerlin&config.display=large)
+
+
  </a>
 </div>
